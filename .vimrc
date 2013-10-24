@@ -1,7 +1,9 @@
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
+colorscheme desert
 
+set lines=35 columns=150
 set number
 set tabstop=8
 set expandtab
